@@ -1,0 +1,2 @@
+# CAzette-World
+Django project
